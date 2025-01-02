@@ -125,6 +125,7 @@ module axi4lite_slave #
     localparam          OBUF_WR_ADDR                 = 3;
     localparam          WBUF_RD_ADDR                 = 4;
     localparam          BIAS_RD_ADDR                 = 5;
+    localparam          AAA                          = 6;//ghd_add
 //=============================================================
 
 //=============================================================
